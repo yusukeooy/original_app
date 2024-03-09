@@ -74,3 +74,5 @@ group :test do
 end
 gem "sassc-rails"
 gem "devise"
+gem "rails-i18n"
+gem 'pry-rails'
