@@ -5,7 +5,7 @@ class CreateMakers < ActiveRecord::Migration[7.0]
       t.string :name
       t.string :address
       t.string :category
-      t.string :
+      t.string :features
       t.text :image
       t.timestamps
     end
